@@ -1,0 +1,1 @@
+Different scenarios for code which executes in C and fails in C++ are documented here.
