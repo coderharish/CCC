@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/CppvsC_first.dir/main.cpp.o  -o CppvsC_first 
